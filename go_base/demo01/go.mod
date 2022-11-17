@@ -1,1 +1,3 @@
-module "demo01"
+module demo01
+
+go 1.15
